@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Sample.Framework.dll": {}
         }
+      },
+      "UserManagment.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Sample.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserManagment.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserManagment.Domain.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,16 @@
       "type": "project",
       "path": "../Sample.Framework/Sample.Framework.csproj",
       "msbuildProject": "../Sample.Framework/Sample.Framework.csproj"
+    },
+    "UserManagment.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UserManagment.Domain/UserManagment.Domain.csproj",
+      "msbuildProject": "../UserManagment.Domain/UserManagment.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Sample.Framework >= 1.0.0"
+      "UserManagment.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.Domain\\UserManagment.Domain.csproj",
-      "projectName": "UserManagment.Domain",
-      "projectPath": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.Domain\\UserManagment.Domain.csproj",
+      "projectUniqueName": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.ApplicationService\\UserManagment.ApplicationService.csproj",
+      "projectName": "UserManagment.ApplicationService",
+      "projectPath": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.ApplicationService\\UserManagment.ApplicationService.csproj",
       "packagesPath": "C:\\Users\\Dear User\\.nuget\\packages\\",
-      "outputPath": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.Domain\\obj\\",
+      "outputPath": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.ApplicationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dear User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\Sample.Framework\\Sample.Framework.csproj": {
-              "projectPath": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\Sample.Framework\\Sample.Framework.csproj"
+            "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.Domain\\UserManagment.Domain.csproj": {
+              "projectPath": "D:\\MicroserviceSina\\Microservice-sample-with-DDD\\Microservice With DDD\\UserManagment.Domain\\UserManagment.Domain.csproj"
             }
           }
         }
