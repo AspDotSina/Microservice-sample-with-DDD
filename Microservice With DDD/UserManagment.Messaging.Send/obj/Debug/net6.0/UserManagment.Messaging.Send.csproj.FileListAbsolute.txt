@@ -1,0 +1,15 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\bin\Debug\net6.0\UserManagment.Messaging.Send.exe
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\bin\Debug\net6.0\UserManagment.Messaging.Send.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\bin\Debug\net6.0\UserManagment.Messaging.Send.runtimeconfig.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\bin\Debug\net6.0\UserManagment.Messaging.Send.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\bin\Debug\net6.0\UserManagment.Messaging.Send.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\refint\UserManagment.Messaging.Send.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\UserManagment.Messaging.Send.genruntimeconfig.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Messaging.Send\obj\Debug\net6.0\ref\UserManagment.Messaging.Send.dll

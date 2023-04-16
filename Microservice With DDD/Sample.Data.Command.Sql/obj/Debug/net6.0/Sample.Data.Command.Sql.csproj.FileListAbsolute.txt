@@ -1,0 +1,14 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\bin\Debug\net6.0\Sample.Data.Command.Sql.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\bin\Debug\net6.0\Sample.Data.Command.Sql.runtimeconfig.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\bin\Debug\net6.0\Sample.Data.Command.Sql.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\bin\Debug\net6.0\Sample.Data.Command.Sql.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\refint\Sample.Data.Command.Sql.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\Sample.Data.Command.Sql.genruntimeconfig.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Data.Command.Sql\obj\Debug\net6.0\ref\Sample.Data.Command.Sql.dll
