@@ -1,0 +1,37 @@
+Create Table [dbo].[EventStore]
+(
+[Id] [uniqueidentifier] not null,
+[CreatedAt] [datetime2] not null,
+[sequence] [int] Identity(1,1) not null,
+[version] [int] not null,
+[Name] [nvarchar](250) not null,
+[AggregateId] [nvarchar](250) not null,
+[Data] [nvarchar](max) not null,
+[Aggregate] [nvarchar](250) not null
+
+)on [Primary] TextImage_on [Primary]
+go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello friends
+This is a sample project with DDD
+And the architecture of this project is clean architecture
+And in it I have used patterns like cqrs and Repository
+And its domain layer is Rich Domain and includes aggregate and value object
+I hope this sample will help you in your challenges
+Good luck

@@ -1,0 +1,12 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\bin\Debug\net6.0\Sample.Framework.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\bin\Debug\net6.0\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\bin\Debug\net6.0\Sample.Framework.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\refint\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\Sample.Framework.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.Framework\obj\Debug\net6.0\ref\Sample.Framework.dll

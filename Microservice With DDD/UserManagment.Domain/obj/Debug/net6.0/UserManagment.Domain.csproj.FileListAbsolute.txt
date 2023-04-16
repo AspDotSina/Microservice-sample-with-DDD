@@ -1,0 +1,15 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\bin\Debug\net6.0\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\bin\Debug\net6.0\Sample.Framework.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.CopyComplete
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\refint\UserManagment.Domain.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Domain\obj\Debug\net6.0\ref\UserManagment.Domain.dll

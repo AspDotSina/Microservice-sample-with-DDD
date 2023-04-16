@@ -1,0 +1,15 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\bin\Debug\net6.0\Sample.EventStore.SqlServer.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\bin\Debug\net6.0\Sample.EventStore.SqlServer.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\bin\Debug\net6.0\Sample.EventStore.SqlServer.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\bin\Debug\net6.0\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\bin\Debug\net6.0\Sample.Framework.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.csproj.CopyComplete
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\refint\Sample.EventStore.SqlServer.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\Sample.EventStore.SqlServer.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\Sample.EventStore.SqlServer\obj\Debug\net6.0\ref\Sample.EventStore.SqlServer.dll

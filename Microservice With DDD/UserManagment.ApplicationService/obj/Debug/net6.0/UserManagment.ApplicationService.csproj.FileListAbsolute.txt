@@ -1,0 +1,17 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\UserManagment.ApplicationService.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\UserManagment.ApplicationService.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\UserManagment.ApplicationService.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\bin\Debug\net6.0\Sample.Framework.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.csproj.CopyComplete
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\refint\UserManagment.ApplicationService.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\UserManagment.ApplicationService.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.ApplicationService\obj\Debug\net6.0\ref\UserManagment.ApplicationService.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserManagment.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UserManagment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UserManagment.Infrastructure.dll": {}
+        }
+      },
+      "Sample.Framework/1.0.0": {
+        "runtime": {
+          "Sample.Framework.dll": {}
+        }
+      },
+      "UserManagment.Domain/1.0.0": {
+        "dependencies": {
+          "Sample.Framework": "1.0.0"
+        },
+        "runtime": {
+          "UserManagment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserManagment.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sample.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserManagment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

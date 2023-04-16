@@ -1,0 +1,17 @@
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.deps.json
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\Sample.Framework.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\bin\Debug\net6.0\Sample.Framework.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.AssemblyReference.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfoInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfo.cs
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CopyComplete
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\refint\UserManagment.Infrastructure.dll
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\MicroserviceSina\Microservice-sample-with-DDD\Microservice With DDD\UserManagment.Infrastructure\obj\Debug\net6.0\ref\UserManagment.Infrastructure.dll
